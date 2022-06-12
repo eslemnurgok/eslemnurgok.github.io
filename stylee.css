@@ -1,0 +1,16 @@
+.resimslider{
+    height: 600px;
+}
+body{
+    padding-top:50px;
+}
+
+.hakkimda{
+    background-color:azure;
+}
+.ayrac{
+    border:none;
+    border-top: 3px solid #343a34;
+    max-width: 250px;
+    margin:25px auto;
+}
